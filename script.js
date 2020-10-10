@@ -1,4 +1,4 @@
-API_KEY = "a9b3bcdf738da4b6fa088f44937a542b";
+API_KEY = "";
 
 $(function(){
   $('#btn').on('click', function() {
